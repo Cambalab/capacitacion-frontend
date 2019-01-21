@@ -1,5 +1,5 @@
 {
-  "name": "capacitacion-frontend",
+  "name": "capacitacion-frontend-lerna",
   "version": "0.0.0",
   "description": "Capacitación Frontend",
   "main": " ",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Cambalab/capacitacion-frontend/issues"
   },
-  "homepage": "https://github.com/Cambalab/capacitacion-frontend#readme"
+  "homepage": "https://github.com/Cambalab/capacitacion-frontend#readme",
+  "devDependencies": {
+    "lerna": "^3.10.6"
+  }
 }
