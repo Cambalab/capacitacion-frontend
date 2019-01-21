@@ -1,0 +1,27 @@
+{
+  "name": "capacitacion-frontend",
+  "version": "0.0.0",
+  "description": "Capacitación Frontend",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cambalab/capacitacion-frontend.git"
+  },
+  "keywords": [
+    "frontend",
+    "vuejs",
+    "react",
+    "best-practices",
+    "unit-test",
+    "e2e"
+  ],
+  "author": "Camba <info@camba.coop>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cambalab/capacitacion-frontend/issues"
+  },
+  "homepage": "https://github.com/Cambalab/capacitacion-frontend#readme"
+}

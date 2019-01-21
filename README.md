@@ -1,5 +1,7 @@
 
-<center><img src="/public/logo.png"/></center>
+<p align="center">
+  <img src="/public/logo.png"/>
+</p>
 
 # Capacitación Frontend
 
